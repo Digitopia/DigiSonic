@@ -1,0 +1,17 @@
+{
+    "name": "DigiSonic",
+    "type": "static",
+    "static": {
+        "public": "dist",
+        "rewrites": [
+            {
+                "source": "**",
+                "destination": "/index.html"
+            }
+        ]
+    },
+    "alias": "digisonic",
+    "files": [
+        "dist"
+    ]
+}
