@@ -16,7 +16,7 @@
     "jquery": "^3.4.1",
     "lodash": "^4.17.15",
     "nexusui": "^2.0.10",
-    "npm": "^6.11.3",
+    "npm": "^6.13.4",
     "popper.js": "^1.15.0",
     "register-service-worker": "^1.6.2",
     "teoria": "^2.5.0",
