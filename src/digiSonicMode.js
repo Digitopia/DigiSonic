@@ -2,6 +2,8 @@
  * JavaScript:
  */
 
+/* eslint-disable no-useless-escape */
+
 import CodeMirror from 'codemirror'
 import 'codemirror/addon/mode/simple'
 

@@ -34,7 +34,7 @@ export default {
         return ret
 
         /* eslint-enable no-restricted-globals */
-        /* eslint-enable brace-style no-param-reassign */
+        /* eslint-enable brace-style, no-param-reassign */
     },
 
     /**
